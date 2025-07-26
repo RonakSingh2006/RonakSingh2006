@@ -8,14 +8,14 @@
   - 💻 Building personal projects to sharpen skills  
 
 - 🌱 I’m actively learning:  
-  - React (Frontend + Backend)  
+  - Full Stack Devlopment 
   - Advanced DSA 
   - Competitive Programming  
 
 - 🧠 I have solved 700+ problems on [LeetCode](https://leetcode.com/RonakSingh2006/)  
-- 📈 Goal: Reach 1700+ rating on LeetCode  
+- 📈 Goal: Reach Knight on LeetCode  
 
-- 💬 Ask me about **Java**, **C**, **DSA**, **React**, or anything tech  
+- 💬 Ask me about **Java**, **DSA**, **React**, or anything tech  
 - ⚡ Fun fact: I love optimizing recursive logic and debugging edge cases  
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ### 📫 Connect with me:
-- 💼 [LinkedIn (optional)](https://www.linkedin.com/in/ronak-singh-nov2006/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronak-singh-nov2006/)  
 
 ---
 
