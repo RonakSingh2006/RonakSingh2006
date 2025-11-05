@@ -1,0 +1,17 @@
+name: Activity Graph
+on:
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ashutosh00710/github-readme-activity-graph@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GRAPH_THEME: github-dark
+          AREA: true

@@ -1,0 +1,16 @@
+name: 3D Contribution Graph
+on:
+  schedule: [{ cron: "0 0 * * 0" }]   # weekly
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: RonakSingh2006
