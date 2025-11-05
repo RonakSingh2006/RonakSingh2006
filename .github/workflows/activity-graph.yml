@@ -1,6 +1,7 @@
 name: Activity Graph
 on:
-  schedule: [{ cron: "0 */12 * * *" }]
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,8 +11,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        
       - uses: ashutosh00710/github-readme-activity-graph@master
-        with:
+        # FIX: GITHUB_TOKEN must be in an 'env:' block
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # 'with:' is for the action's specific inputs
+        with:
           GRAPH_THEME: github-dark
           AREA: true

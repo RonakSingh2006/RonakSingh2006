@@ -15,9 +15,12 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate 3D graph
-        uses: yoshi389111/github-profile-3d-contrib@v0.8.0
+        # Fix 1: Use @latest instead of @v0.8.0
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Fix 2: Add the required USERNAME variable
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
         run: |
