@@ -10,33 +10,30 @@
   BE 2027 • Maharaja Sayajirao University • India
 </p>
 
-<!-- Social badges -->
+<!-- Social icons -->
 <p align="center">
   <a href="https://leetcode.com/u/RonakSingh2006/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-RonakSingh2006-FFA116?logo=leetcode&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="34" alt="LeetCode"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ronak-singh-nov2006/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ronak--singh--nov2006-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/RonakSingh2006">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-RonakSingh2006-000?logo=github&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ronak-singh-nov2006/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" alt="LinkedIn"/>
   </a>
 </p>
 
-<!-- Monochrome icon row (stable URLs) -->
+<!-- Buttons (Shields.io badges) -->
 <p align="center">
-  <a href="https://leetcode.com/u/RonakSingh2006/">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leetcode.svg" width="32px"/>
+  <a href="https://drive.google.com/file/d/1HEeLYbXVEIyi6J3E_NaHpRBQFqTzHiIi/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-00eaff?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/RonakSingh2006">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32px"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ronak-singh-nov2006/">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.svg" width="32px"/>
+</p>
+<p align="center">
+  <a href="mailto:ronaksingh20112006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ronaksingh20112006%40gmail.com-ff0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </p>
 
@@ -45,13 +42,13 @@
 ## 🚀 About
 - 💻 **MERN Stack + Java Backend**
 - 🧠 **1000+ DSA questions solved**
-- 🏆 **LeetCode Rank < 25K** | Contest Rating ~**1817**
-- 🎯 Focus: **System Design, APIs, DBMS, WebSockets**
-- ⚡ Passion: scalable backend + problem-solving excellence
+- 🏆 **Top < 25K LeetCode Rank** | Contest Rating ~**1817**
+- 🎯 Focus: **Scalable Backend • WebSockets • DBMS**
+- ⚡ Passion: building real-world full-stack & backend apps
 
 ---
 
-## 🧰 Tech Stack (compact rows)
+## 🧰 Tech Stack
 
 ### 🚀 Languages
 <p>
@@ -85,11 +82,10 @@
 
 ---
 
-## 🧠 DSA Stats (Dynamic)
-<!-- External live card from LeetCard — no workflow required -->
+## 🧠 DSA Stats (Live)
 <p align="center">
   <a href="https://leetcode.com/u/RonakSingh2006/">
-    <img src="https://leetcard.jacoblin.cool/RonakSingh2006?ext=heatmap&theme=dark&border=0" alt="LeetCode Heatmap Card"/>
+    <img src="https://leetcard.jacoblin.cool/RonakSingh2006?ext=heatmap&theme=dark&border=0" />
   </a>
 </p>
 
@@ -101,14 +97,13 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=RonakSingh2006&theme=github-dark&hide_border=true"/>
 </p>
 
-<!-- Activity graph (optional GitHub Action below) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakSingh2006&theme=github-dark&hide_border=true"/>
 </p>
 
-<!-- 3D contribution graph (optional GitHub Action below) -->
+### 🧊 3D Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/assets/svgs/profile-gitblock.svg"/>
+  <img src="https://raw.githubusercontent.com/RonakSingh2006/RonakSingh2006/main/profile-3d-contrib/profile-night-view.svg"/>
 </p>
 
 ---
