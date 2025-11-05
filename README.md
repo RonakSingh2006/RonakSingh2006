@@ -1,4 +1,4 @@
-<!-- Profile README — Ronak Singh (Dark, Dynamic) -->
+<!-- Profile README — Ronak Singh (Dark, Dynamic, Stable) -->
 
 <!-- Typing intro -->
 <p align="center">
@@ -85,18 +85,12 @@
 
 ---
 
-## 🧠 DSA Stats (Auto-Updated)
-<!-- External live card (no setup needed) -->
+## 🧠 DSA Stats (Dynamic)
+<!-- External live card from LeetCard — no workflow required -->
 <p align="center">
   <a href="https://leetcode.com/u/RonakSingh2006/">
     <img src="https://leetcard.jacoblin.cool/RonakSingh2006?ext=heatmap&theme=dark&border=0" alt="LeetCode Heatmap Card"/>
   </a>
-</p>
-
-<!-- Local SVGs that a workflow updates for you -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RonakSingh2006/ronaksingh2006-leetcode-stats/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/RonakSingh2006/ronaksingh2006-leetcode-stats/output/profile-summary-card-output/github_dark/3-stats.svg" />
 </p>
 
 ---
@@ -107,10 +101,12 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=RonakSingh2006&theme=github-dark&hide_border=true"/>
 </p>
 
+<!-- Activity graph (optional GitHub Action below) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakSingh2006&theme=github-dark&hide_border=true"/>
 </p>
 
+<!-- 3D contribution graph (optional GitHub Action below) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/assets/svgs/profile-gitblock.svg"/>
 </p>
