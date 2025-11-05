@@ -1,16 +1,28 @@
-name: 3D Contribution Graph
+name: Generate 3D Contribution Graph
 on:
-  schedule: [{ cron: "0 0 * * 0" }]
+  schedule:
+    - cron: "0 0 * * 0"  # Weekly Sunday run
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user_name: RonakSingh2006
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.8.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add -A .
+          git commit -m "Update 3D graph" || echo "No changes"
+          git push
