@@ -1,6 +1,3 @@
-<!-- Profile README — Ronak Singh (Dark, Dynamic, Stable) -->
-
-<!-- Typing intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ronak+Singh;CS+Undergrad+%E2%80%A2+Software+Developer;1000%2B+LeetCode+Problems;Top+%3C+25K+Global+Rank;MERN+%2B+Java+Backend+Developer" />
 </p>
@@ -10,7 +7,6 @@
   BE 2027 • Maharaja Sayajirao University • India
 </p>
 
-<!-- Social icons -->
 <p align="center">
   <a href="https://leetcode.com/u/RonakSingh2006/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="34" alt="LeetCode"/>
@@ -25,7 +21,6 @@
   </a>
 </p>
 
-<!-- Buttons (Shields.io badges) -->
 <p align="center">
   <a href="https://drive.google.com/file/d/1HEeLYbXVEIyi6J3E_NaHpRBQFqTzHiIi/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-00eaff?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
@@ -61,17 +56,20 @@
 ### ⚙️ Frameworks & Runtime
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45px">
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45px">
 </p>
 
 ### 🛠 Tools
