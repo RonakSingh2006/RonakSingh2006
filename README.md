@@ -43,7 +43,7 @@
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 ### 🚀 Languages
 <p>
@@ -72,14 +72,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50px">
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Cloud
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/turborepo/turborepo-original.svg" width="45px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45px">
 </p>
-
 
 ---
 
