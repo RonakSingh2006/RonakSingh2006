@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1HEeLYbXVEIyi6J3E_NaHpRBQFqTzHiIi/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/19nF9A5ZKAgwQqipIRGYqLVP8PYUWA-cJ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-00eaff?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
