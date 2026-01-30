@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ronak+Singh;CS+Undergrad+%E2%80%A2+Software+Developer;1000%2B+LeetCode+Problems;Top+%3C+25K+Global+Rank;MERN+%2B+Java+Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ronak+Singh;CS+Undergrad+%E2%80%A2+Software+Developer;1000%2B+LeetCode+Problems;Top+%3C+18K+Global+Rank" />
 </p>
+
 
 <h1 align="center">Ronak Singh</h1>
 <p align="center">
@@ -12,6 +13,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="34" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/ronak2006">
+    <img src="https://img.icons8.com/color/48/000000/codechef.png" width="34" alt="CodeChef"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/RonakSingh2006">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" alt="GitHub"/>
   </a>
@@ -21,27 +26,17 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/19nF9A5ZKAgwQqipIRGYqLVP8PYUWA-cJ/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-00eaff?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-  </a>
-</p>
-<p align="center">
-  <a href="mailto:ronaksingh20112006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ronaksingh20112006%40gmail.com-ff0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-</p>
 
 ---
 
 ## 🚀 About
-- 💻 **MERN Stack + Java Backend**
+- 💻 **Software Developer**
 - 🧠 **1000+ DSA questions solved**
-- 🏆 **Top < 25K LeetCode Rank** | Contest Rating ~**1817**
-- 🎯 Focus: **Scalable Backend • WebSockets • DBMS**
+- 🏆 **Top < 18K LeetCode Rank** | Contest Rating ~**1836 (MAX)**
+- 🎯 Focus: **Scalable Backend • WebSockets • DevOps**
+- 🌐 Exploring: **Web3 & Blockchain fundamentals**
 - ⚡ Passion: building real-world full-stack & backend apps
 
----
 
 ### 🧰 Tech Stack
 
@@ -50,8 +45,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50px">
 </p>
+
 
 ### ⚙️ Frameworks & Runtime
 <p>
@@ -78,9 +73,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/turborepo/turborepo-original.svg" width="45px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45px">
+  <img src="https://img.shields.io/badge/Turborepo-Monorepo-000000?style=flat-square">
 </p>
+
 
 ---
 
@@ -94,10 +91,21 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RonakSingh2006&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=RonakSingh2006&theme=github-dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonakSingh2006&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonakSingh2006&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonakSingh2006&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonakSingh2006&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonakSingh2006&theme=github_dark&utcOffset=5.5" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakSingh2006&theme=github-dark&hide_border=true"/>
