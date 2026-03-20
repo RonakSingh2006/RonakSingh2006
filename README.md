@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ronak+Singh;CS+Undergrad+%E2%80%A2+Software+Developer;1000%2B+LeetCode+Problems;Top+%3C+18K+Global+Rank" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ronak+Singh;CS+Undergrad+%E2%80%A2+Software+Developer;2000%2B+LeetCode+Problems;LeetCode+Knight+%F0%9F%9B%A1%EF%B8%8F;Top+4.06%25+Global+%7C+Rank+13%2C729" />
 </p>
 
-
 <h1 align="center">Ronak Singh</h1>
+
 <p align="center">
   BE 2027 • Maharaja Sayajirao University • India
 </p>
@@ -26,17 +26,21 @@
   </a>
 </p>
 
-
----
+----
 
 ## 🚀 About
+
 - 💻 **Software Developer**
-- 🧠 **1000+ DSA questions solved**
-- 🏆 **Top < 18K LeetCode Rank** | Contest Rating ~**1836 (MAX)**
+- 🧠 **Solved:** 2000+ DSA Problems
+- 🛡️ **LeetCode Knight** (Top 4.1% Worldwide)
+  - 🏆 **Global Rank:** < 14,000
+  - 📈 **Contest Rating:** 1900+ (Max)
+- ⭐ **3★ CodeChef**
 - 🎯 Focus: **Scalable Backend • WebSockets • DevOps**
 - 🌐 Exploring: **Web3 & Blockchain fundamentals**
-- ⚡ Passion: building real-world full-stack & backend apps
+- ⚡ Passion: **building real-world full-stack & backend apps**
 
+---
 
 ### 🧰 Tech Stack
 
@@ -46,7 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45px">
 </p>
-
 
 ### ⚙️ Frameworks & Runtime
 <p>
@@ -78,10 +81,10 @@
   <img src="https://img.shields.io/badge/Turborepo-Monorepo-000000?style=flat-square">
 </p>
 
-
 ---
 
 ## 🧠 DSA Stats (Live)
+
 <p align="center">
   <a href="https://leetcode.com/u/RonakSingh2006/">
     <img src="https://leetcard.jacoblin.cool/RonakSingh2006?ext=heatmap&theme=dark&border=0" />
@@ -106,7 +109,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonakSingh2006&theme=github_dark&utcOffset=5.5" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakSingh2006&theme=github-dark&hide_border=true"/>
 </p>
@@ -119,6 +121,7 @@
 ---
 
 ## 📫 Connect
+
 - LinkedIn: **https://www.linkedin.com/in/ronak-singh-nov2006/**
 - LeetCode: **https://leetcode.com/u/RonakSingh2006/**
 - GitHub: **https://github.com/RonakSingh2006**
