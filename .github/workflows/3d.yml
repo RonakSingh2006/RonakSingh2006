@@ -1,31 +1,38 @@
-name: Generate 3D Contribution Graph
+name: Generate Profile Assets
+
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Weekly Sunday run
-  workflow_dispatch:
+    - cron: "0 0 * * 0"  # Runs every Sunday at midnight
+  workflow_dispatch:     # Allows manual runs from the Actions tab
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate 3D graph
-        # Fix 1: Use @latest instead of @v0.8.0
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fztq/github-profile-summary-cards@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+
+      - name: Generate 3D Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Fix 2: Add the required USERNAME variable
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A .
-          git commit -m "Update 3D graph" || echo "No changes"
+          git commit -m "Update profile metrics & 3D graph" || echo "No changes to commit"
           git push
