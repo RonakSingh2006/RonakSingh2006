@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RonakSingh2006&color=7928ca&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/RonakSingh2006/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="34" alt="LeetCode"/>
   </a>
@@ -96,17 +100,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonakSingh2006&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/RonakSingh2006/RonakSingh2006/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonakSingh2006&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonakSingh2006&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/RonakSingh2006/RonakSingh2006/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/RonakSingh2006/RonakSingh2006/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonakSingh2006&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonakSingh2006&theme=github_dark&utcOffset=5.5" />
+  <img src="https://raw.githubusercontent.com/RonakSingh2006/RonakSingh2006/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/RonakSingh2006/RonakSingh2006/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
 </p>
 
 <p align="center">
