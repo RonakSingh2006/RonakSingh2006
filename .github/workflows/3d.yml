@@ -16,10 +16,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Profile Summary Cards
-        uses: vn7n24fztq/github-profile-summary-cards@v2
+        uses: docker://vn7n24fztq/github-profile-summary-cards:v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
           USERNAME: ${{ github.repository_owner }}
           THEME: github_dark
 
