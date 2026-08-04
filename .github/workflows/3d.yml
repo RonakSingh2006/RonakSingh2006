@@ -2,11 +2,11 @@ name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Runs every Sunday at midnight
-  workflow_dispatch:     # Allows manual runs from the Actions tab
+    - cron: "0 0 * * 0"  # Runs every Sunday
+  workflow_dispatch:     # Manual run trigger
 
 jobs:
-  generate:
+  generate-assets:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,23 +15,26 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Profile Summary Cards
-        uses: docker://vn7n24fztq/github-profile-summary-cards:v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          THEME: github_dark
-
       - name: Generate 3D Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Generate Header & Language Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          base: header, repositories
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes-size
+          config_timezone: Asia/Kolkata
+
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A .
-          git commit -m "Update profile metrics & 3D graph" || echo "No changes to commit"
+          git commit -m "Update profile assets" || echo "No changes to commit"
           git push
