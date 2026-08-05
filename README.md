@@ -24,8 +24,8 @@
     <img src="https://img.icons8.com/color/48/000000/codechef.png" width="34" alt="CodeChef"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/RonakSingh2006">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" alt="GitHub"/>
+   <a href="https://github.com/RonakSingh2006">
+    <img src="https://cdn.simpleicons.org/github/white" width="34" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ronak-singh-nov2006/">
