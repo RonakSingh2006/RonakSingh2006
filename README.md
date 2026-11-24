@@ -65,7 +65,7 @@ I'm a **Computer Science undergraduate** passionate about building **scalable fu
 
 A real-time collaborative whiteboard with low-latency multi-user drawing, a custom HTML Canvas graphics engine, JWT authentication, and role-based workspaces. Built with **Next.js, React, Express.js, WebSocket, Prisma, PostgreSQL, Docker & AWS EC2**.
 
-🔗 **Live:** [inkcalibur.ronaksingh.me](https://inkcalibur.ronaksingh.me)
+🔗 **Live:** [inkcalibur.ronaksingh.me](https://inkcalibur.ronaks.me)
 
 ---
 
